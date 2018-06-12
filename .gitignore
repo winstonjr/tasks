@@ -1,0 +1,47 @@
+*.class
+*.log
+*.log.1
+*.iml
+.idea/
+.DS_Store
+
+# sbt specific
+.cache/
+.history/
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.sbtserver*
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+velocity
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+# .NET specific
+packages/
+bin/
+obj/
+*.suo
+*.user
+*.nupkg
+Assemblies
+
+# Node.js
+node_modules/
+
+# Sonar
+.sonar
